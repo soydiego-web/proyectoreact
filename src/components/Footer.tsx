@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function Footer() {
   const [copiado, setCopiado] = useState(false);
-  const email = "diego@ejemplo.com";
+  const email = "davilas2@unemi.edu.ec";
 
   // Evento: copiar email al portapapeles con feedback visual
   const copiarEmail = () => {
@@ -61,8 +61,8 @@ function Footer() {
             {/* Links de redes sociales */}
             <div style={estilos.redes}>
               {[
-                { label: "GitHub", url: "https://github.com" },
-                { label: "LinkedIn", url: "https://linkedin.com" },
+                { label: "GitHub", url: "https://github.com/soydiego-web" },
+                { label: "LinkedIn", url: "https://www.linkedin.com/in/diego-avila-289b1239a/" },
               ].map((red) => (
                 <a
                   key={red.label}
