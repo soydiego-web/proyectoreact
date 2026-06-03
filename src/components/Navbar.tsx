@@ -72,10 +72,12 @@ const estilos: Record<string, React.CSSProperties> = {
   links: {
     listStyle: "none",
     display: "flex",
+    flexDirection: "row",
     gap: "2.5rem",
     margin: 0,
     padding: 0,
-  },
+  
+},
   link: {
     color: "#cbd5e1",
     textDecoration: "none",
