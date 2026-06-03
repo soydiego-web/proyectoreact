@@ -42,7 +42,7 @@ function Hero() {
         </h1>
 
         <p style={estilos.subtitulo}>
-          Desarrollador Web · Estudiante de Ingeniería · React Enthusiast
+          Desarrollador jr · Estudiante de Ingeniería de software · practicante de React
         </p>
 
         {/* Mensaje dinámico — aparece y desaparece */}
@@ -77,7 +77,14 @@ function Hero() {
               ? "¡Sigue sumando!"
               : contador < 10
               ? "¡Vas bien! 🔥"
-              : "¡Wow, eres persistente! 🚀"}
+              : contador < 15
+             
+              ? "¡Increíble, casi llegas a 20! 🚀"
+              : "¡Wow, eres persistente! 🚀" }
+            
+              
+              
+              
           </p>
         </div>
 
