@@ -43,12 +43,12 @@ function Sobre() {
             <div style={estilos.avatar}>👨‍💻</div>
 
             <p style={{ ...estilos.texto, color: temaClaro ? "#475569" : "#94a3b8" }}>
-              Estudiante de Ingeniería en Sistemas apasionado por el desarrollo
-              web y las nuevas tecnologías. Me especializo en construir
+              Estudiante de Ingeniería de software apasionado por el desarrollo
+              web y las nuevas tecnologías. Me preparo para construir
               interfaces modernas y experiencias de usuario intuitivas.
             </p>
             <p style={{ ...estilos.texto, color: temaClaro ? "#475569" : "#94a3b8" }}>
-              Actualmente cursando el tercer año en la Universidad Estatal de
+              Actualmente cursando el segundo año en la Universidad Estatal de
               Milagro (UNEMI), con enfoque en desarrollo full-stack y
               arquitecturas de software modernas.
             </p>

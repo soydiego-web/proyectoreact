@@ -80,9 +80,9 @@ function Proyectos() {
   return (
     <section id="proyectos" style={estilos.seccion}>
       <div style={estilos.contenedor}>
-        <h2 style={estilos.titulo}>Mis Proyectos</h2>
+        <h2 style={estilos.titulo}>Futuros Proyectos</h2>
         <p style={estilos.subtitulo}>
-          Una selección de proyectos desarrollados durante mi carrera
+          Ideas y proyectos que planeo desarrollar durante mi carrera
         </p>
 
         {/* Botones de filtro — eventos con estado */}

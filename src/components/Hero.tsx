@@ -38,7 +38,7 @@ function Hero() {
           onClick={() => setColorActivo(!colorActivo)}
           title="¡Haz clic para cambiar mi color!"
         >
-          Hola, soy Diego 👋
+          Hola, soy Diego Avila 👋
         </h1>
 
         <p style={estilos.subtitulo}>
