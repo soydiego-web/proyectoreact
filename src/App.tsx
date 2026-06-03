@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       {/* Fragment (<>) agrupa elementos sin agregar un div extra al DOM */}
-      <Navbar titulo="Diego.dev" />
+      <Navbar titulo="Diego" />
       <main>
         <Hero />
         <Sobre />
